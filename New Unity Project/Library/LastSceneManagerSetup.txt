@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/map\u30DA\u30FC\u30B8.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
