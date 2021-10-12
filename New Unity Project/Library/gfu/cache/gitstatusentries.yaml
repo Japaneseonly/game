@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-10-12T10:06:13.773+09:00
-  initializedAtString: 2021-10-12T09:54:16.343+09:00
+  lastUpdatedAtString: 2021-10-12T12:00:30.817+09:00
+  initializedAtString: 2021-10-12T11:55:13.968+09:00
   entries:
   - path: New Unity Project\Library\ArtifactDB
     fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Library\ArtifactDB
@@ -22,27 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: New Unity Project\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: New Unity Project\Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
-    fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
-    projectPath: Library\Artifacts\4d\4d9a5add1e9503be8ac3e2bc2c1b40c0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: New Unity Project\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: New Unity Project\Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
-    fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
-    projectPath: Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+  - path: New Unity Project\Library\Artifacts\46\465409fe5a7193f6203abe2b059c0cbe
+    fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Library\Artifacts\46\465409fe5a7193f6203abe2b059c0cbe
+    projectPath: Library\Artifacts\46\465409fe5a7193f6203abe2b059c0cbe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -110,14 +92,20 @@ MonoBehaviour:
     fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: New Unity Project\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: New Unity Project\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -160,3 +148,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: New Unity Project\UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\lab-member\Desktop\masudamap\game\New Unity Project\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

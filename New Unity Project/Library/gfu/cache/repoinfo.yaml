@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-10-12T10:03:00.467+09:00
-  initializedAtString: 2021-10-12T09:54:14.630+09:00
+  lastUpdatedAtString: 2021-10-12T11:55:13.767+09:00
+  initializedAtString: 2021-10-12T11:55:13.767+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/Japaneseonly/game.git
